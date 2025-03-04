@@ -18,6 +18,7 @@ This project is a landing page for an HTML and CSS course. It showcases three di
 - Bootstrap 5
 
 ## URL: 
+https://vlada123m22.github.io/WP_Lab4/
 
 
 
